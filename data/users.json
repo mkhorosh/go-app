@@ -1,0 +1,17 @@
+[
+  {
+    "login": "debug",
+    "password": "123",
+    "name": "Test User"
+  },
+  {
+    "login": "maronic2",
+    "password": "$2a$10$SShCQsn6yTzYN0igJVLa6.ntJB2uDTM7GXIEMe6Ihe2SOhMtodmWC",
+    "name": "User One"
+  },
+  {
+    "login": "maronic221",
+    "password": "$2a$10$9thj55u7NJ2IpvTLlbz7RO7vCQCyfhvGA.vXng187tClpBhoPvSH6",
+    "name": "327"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Bella",
+    "species": "Dog",
+    "age": 3,
+    "description": "Friendly golden retriever"
+  },
+  {
+    "id": "2",
+    "name": "Milo",
+    "species": "Cat",
+    "age": 2,
+    "description": "Playful tabby cat"
+  },
+  {
+    "id": "3",
+    "name": "Coco",
+    "species": "Parrot",
+    "age": 5,
+    "description": "Colorful and talkative parrot"
+  }
+]
